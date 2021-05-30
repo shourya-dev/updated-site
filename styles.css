@@ -1,0 +1,44 @@
+body {
+
+  background-image: url("https://wallpaperxyz.com/wp-content/uploads/The-Best-4K-Wallpapers-Free-Download-Yep-Wallpaperxyz.com-18.jpg");
+}
+
+  hr{
+    background-color: black;
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+
+    width: 90%;
+  }
+h1{
+  color: #c449c2;
+  text-decoration: underline;
+       -webkit-text-underline-position: auto;
+       -ms-text-underline-position: auto;
+
+}
+h3{
+  color: #c449c2;
+  text-decoration: underline;
+       -webkit-text-underline-position: auto;
+       -ms-text-underline-position: auto;
+
+}
+p{
+  color: gold;
+}
+img{
+  height: 250px;
+}
+li{
+  color: gold;
+}
+table{
+  color:gold;
+}
+form{
+  color:gold;
+}
